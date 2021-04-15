@@ -4,4 +4,4 @@
 [Kocaeli University 3rd Party Statistics Application](https://github.com/enginyenice/kou-statistics)
 
 ## Demo Application Url
-[Kocaeli University 3rd Party Statistics Application URL](https://kou-istatistik.herokuapp.com/)
+[Kocaeli University 3rd Party Statistics Application URL](https://kouistatistik.web.app/)
